@@ -2,7 +2,7 @@
 <suite name="Suite_Toi_Uu" parallel="methods" thread-count="2">
   <test name="Test_Hieu_Suat">
     <classes>
-      <class name="Test.UserRegistrationTestNG"/>
+      <class name="test.UserRegistrationTestNG"/>
     </classes>
   </test>
 </suite>
